@@ -30,6 +30,7 @@ The frontend of the application is built using React.js and Vite.js, while the b
 
 ## Website
 - you can view the website here=https://quick-eats-backend-dashboard-react-js.vercel.app
+- i need to build the frontend site for this project  similar to swiggy,zomato.
 
 ## Contributing
 
