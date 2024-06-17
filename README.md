@@ -27,6 +27,13 @@ The frontend of the application is built using React.js and Vite.js, while the b
 3. Add and manage your product listings.
 4. you can also view your products
 
+## MongoDB Integration
+
+**QuickEats** utilizes MongoDB, a NoSQL database, to store vendor, restaurant, food item, and user data. MongoDB's flexibility and scalability make it an ideal choice for managing the dynamic nature of the food delivery platform.
+
+## Title of the App:
+- QuickEats: Connecting Hungry Hearts to Happy Kitchens!🍜🍝🍔🍕
+
 
 ## Website
 - you can view the website here=https://quick-eats-backend-dashboard-react-js.vercel.app
