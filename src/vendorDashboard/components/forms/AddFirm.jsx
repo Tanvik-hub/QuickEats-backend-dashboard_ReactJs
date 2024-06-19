@@ -80,7 +80,7 @@ const AddFirm = () => {
 
       localStorage.setItem('firmId',mango);
       localStorage.setItem('firmName', vendorRestuarant)
-      window.location.reload()
+      
 
       
 
