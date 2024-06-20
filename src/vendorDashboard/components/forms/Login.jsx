@@ -26,7 +26,6 @@ const Login = ({showWelcomeHandler}) => {
       const vendorId=data.vendorId;
       console.log("checking for vendor id=",vendorId);
       const vendorResponse=await fetch(`${API_URL}/vendor/single-vendor/${vendorId}`);
-      window.location.reload();
       const vendorData=await vendorResponse.json();
       if(vendorResponse.ok){
         const vendorFirmId=vendorData.vendorFirmId;
@@ -37,6 +36,7 @@ const Login = ({showWelcomeHandler}) => {
         
         
       }
+      window.location.reload();
 
     } catch (error) {
       console.log(error);
