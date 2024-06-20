@@ -1,4 +1,4 @@
-# QuickEats Backend Dashboard_ReactJs
+# QuickEats🍜 Backend Dashboard_ReactJs
 
 ## Description
 
