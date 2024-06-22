@@ -33,10 +33,11 @@ const Login = ({showWelcomeHandler}) => {
         
         localStorage.setItem('firmId',vendorFirmId);
         localStorage.setItem('firmName',vendorFirmName);
+        window.location.reload();
+
         
         
       }
-      window.location.reload();
 
     } catch (error) {
       console.log(error);
